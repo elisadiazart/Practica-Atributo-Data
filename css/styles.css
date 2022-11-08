@@ -1,0 +1,9 @@
+:root {
+  --box-color: grey;
+}
+
+.color-box {
+  width: 200px;
+  height: 200px;
+  background-color: var(--box-color);
+}
